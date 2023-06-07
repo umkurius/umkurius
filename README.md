@@ -34,5 +34,5 @@ I'm a Junior Frontend Developer
 ### My Works
 
 [My first study project](https://umkurius.github.io/Scandi/)  
-[Minesweeper](https://umkurius.github.io/minesweeper/)  
+[Minesweeper](https://umkurius.github.io/Minesweeper/)  
 [Virtual keyboard](https://umkurius.github.io/virtual-keyboard/)
