@@ -36,5 +36,6 @@ I'm a Junior Frontend Developer
 [My first study project](https://umkurius.github.io/Scandi/)  
 [Shelter](https://umkurius.github.io/Shelter/)  
 [Basic slider](https://umkurius.github.io/Basic-slider/)  
+[Color Board](https://umkurius.github.io/Color-board/)  
 [Minesweeper](https://umkurius.github.io/Minesweeper/)  
 [Virtual keyboard](https://umkurius.github.io/virtual-keyboard/)
