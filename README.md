@@ -37,5 +37,6 @@ I'm a Junior Frontend Developer
 [Shelter](https://umkurius.github.io/Shelter/)  
 [Basic slider](https://umkurius.github.io/Basic-slider/)  
 [Color Board](https://umkurius.github.io/Color-board/)  
+[Aim Training](https://umkurius.github.io/Aim-training/)  
 [Minesweeper](https://umkurius.github.io/Minesweeper/)  
 [Virtual keyboard](https://umkurius.github.io/virtual-keyboard/)
